@@ -1,12 +1,12 @@
-###SAFEFaith
+**SAFEFaith**
 AI-assisted, faith-centered safety and community resilience platform
 
-##Product Vision
+**Product Vision**
 To empower Christian communities—starting in Nigeria—with timely safety alerts, trusted community coordination, preparedness guidance, and faith-based support during periods of insecurity.
 _Slogan_:
 Faith that strengthens safety — not replacing safety with faith.
 
-##Problem Statement
+**Problem Statement**
 Christians living in high-risk or underserved regions often lack:
 1. Timely and reliable safety information
 2. A trusted, community-specific alert system
